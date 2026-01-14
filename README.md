@@ -1,4 +1,4 @@
 # Video
 🎬 **Watch the video**
 
-[Click here to watch the video](videos/tipsy.mp4)
+[![Watch the video](assets/video-thumbnail.png)](videos/tipsy.mp4)
